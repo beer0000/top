@@ -16,3 +16,27 @@
 .pg4{
  background-color: brown;
 }
+
+.interface{
+ height: 100vh;
+}
+
+section{
+    height: 100vh;
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+img{
+    height: 50vh ;
+    width: 50vw ;
+}
+
+aj{
+    display: flex;
+    flex-direction: column;
+}
