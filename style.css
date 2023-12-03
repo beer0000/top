@@ -1,20 +1,20 @@
 
 
 .pg1{
- background-color: aqua;
+ background-color: #2B2D42;
 }
 
 
 .pg2{
- background-color: blue;
+ background-color:#92DCE5;
 }
 
 .pg3{
- background-color: blueviolet;
+ background-color:  #2B2D42;
 }
 
 .pg4{
- background-color: brown;
+ background-color: #92DCE5;
 }
 
 .interface{
@@ -36,4 +36,22 @@ aj{
     display: flex;
     flex-direction: column;
     margin: 50%;
+}
+
+
+
+*{
+    margin: 0;
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
