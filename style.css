@@ -31,12 +31,9 @@ section{
     color: #fff;
 }
 
-img{
-    height: 50vh ;
-    width: 50vw ;
-}
 
 aj{
     display: flex;
     flex-direction: column;
+    margin: 50%;
 }
